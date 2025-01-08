@@ -14,6 +14,8 @@ video {
 }
 
 @import "bootstrap/scss/bootstrap-grid";
+@import "_base.scss";
+@import "_layout.scss";
 
 .row + .row {
   margin-top: 16px;
