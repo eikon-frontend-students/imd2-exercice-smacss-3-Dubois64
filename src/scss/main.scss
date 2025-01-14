@@ -18,6 +18,7 @@ video {
 @import "_layout.scss";
 @import "modules/header";
 @import "modules/_card_poisson.scss";
+@import "modules/footer";
 
 .row + .row {
   margin-top: 16px;
