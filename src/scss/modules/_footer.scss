@@ -1,0 +1,23 @@
+._footer_sous_titre {
+  color: #000;
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+._footer_chapitre_pays {
+  color: #000;
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 125% */
+}
+
+.footer_continent {
+  display: flex;
+  gap: 10%;
+  align-items: baseline;
+}
